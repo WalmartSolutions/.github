@@ -7,4 +7,6 @@
 
 [pgp][1]
 
+# yeah yeah we had to remove this
+
 [1]: https://trillium.rf.gd/pgp.html
